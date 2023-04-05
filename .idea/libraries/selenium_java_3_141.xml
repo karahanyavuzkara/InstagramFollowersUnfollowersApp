@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="selenium-java-3.141">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+  </library>
+</component>
